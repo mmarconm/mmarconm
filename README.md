@@ -1,43 +1,35 @@
-<h1 align="center">👋 Seja bem-vindo(a) ao meu GitHub!</h1>
-
-<p align="center">
-Desenvolvedor Full Stack & DevOps | Apaixonado por tecnologia, idiomas e soluções criativas.
-</p>
+<h1 align="center">👋 Welcome to my GitHub!</h1> 
+<p align="center"> Full Stack Developer & DevOps | Passionate about technology, languages, and creative solutions. </p>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 🧑‍💻 About Me
+I started in tech at the age of 13, trading work for courses at a computer school. Soon after, I was teaching classes and diving deeper into the world of IT.
 
-Iniciei na tecnologia aos 13 anos, trocando trabalho por cursos em uma escola de informática. Logo estava dando aulas e mergulhando cada vez mais fundo no mundo da TI.
+I work as a Full Stack Odoo Developer and DevOps specialist, leveraging tools like Docker, Kubernetes, and AWS to optimize deployment and scalability.
+My focus is on streamlining business processes, automating workflows, and delivering robust ERP solutions using Odoo.
+I enjoy working closely with clients and teams to translate complex requirements into practical, sustainable code that makes a real impact.
 
-Trabalho como desenvolvedor Full Stack Odoo e especialista em DevOps, aproveitando ferramentas como Docker, Kubernetes e AWS para otimizar a implantação e a escalabilidade. 
-Meu foco é otimizar processos de negócios, automatizar fluxos de trabalho e fornecer soluções de ERP robustas usando o Odoo. 
-Gosto de trabalhar em estreita colaboração com clientes e equipes para traduzir requisitos complexos em código prático e sustentável que gere impacto real.
-
-Além disso, sou apaixonado por idiomas — falo inglês fluentemente e estudo árabe e mandarim.
+I'm also passionate about languages — I speak English fluently and am currently studying Arabic and Mandarin.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
-- **Linguagens**: Python, JavaScript/TypeScript, HTML, CSS, PHP, 
+## 🚀 Technologies & Tools
+- **Languages**: Python, JavaScript/TypeScript, HTML, CSS, PHP, 
 - **Frameworks**: Django, Flask, Odoo, ReactJS, VueJS
-- **Infraestrutura**: Docker, Kubernetes, AWS
-- **Outros**: Git, Linux, PostgreSQL, Tailwind CSS
+- **Infrastructure**: Docker, Kubernetes, AWS
+- **Others**: Git, Linux, PostgreSQL, Tailwind CSS
 
 ---
-
-## 🌐 Onde me encontrar
-
+## 🌐 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-marcon-780b44114/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marconm.inf0@gmail.com)
 
 ---
 
-## 🧠 Citação Favorita
+## 🧠 Favorite Quote
 
-> "A essência de um desenvolvedor é observar, entender e resolver problemas."  
-> – Eu mesmo 😄
+> "The essence of a developer is to observe, understand, and solve problems."  
 
 ---
 
@@ -45,4 +37,4 @@ Além disso, sou apaixonado por idiomas — falo inglês fluentemente e estudo �
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
 </p>
 
-<p align="center">Obrigado por visitar ❤️</p>
+<p align="center">Thanks for visiting ❤️</p>
